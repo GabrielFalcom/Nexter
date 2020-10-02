@@ -1,2 +1,2 @@
 # Nexter
-CSS grid properties
+CSS grid project
